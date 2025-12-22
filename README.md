@@ -245,7 +245,9 @@ Resources & AI Usage
 *   [man write](https://man7.org/linux/man-pages/man2/write.2.html)
     
 *   [man ar](https://stackoverflow.com/questions/9593286/creating-a-library-file-in-makefile-and-compiling-after-that)
-    
+
+*   [file discriptor](https://users.cs.jmu.edu/bernstdh/web/common/lectures/summary_unix_file-descriptors.php)
+ 
 *   [GNU C Library Documentation](https://man7.org/linux/man-pages/man7/libc.7.html)
     
 *   [42 Libft Subject PDF](https://cdn.intra.42.fr/pdf/pdf/190364/en.subject.pdf)
